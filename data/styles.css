@@ -83,6 +83,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -113,6 +115,17 @@
 }
 .text_field {
   color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
 .checkbox {
