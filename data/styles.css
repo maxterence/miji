@@ -66,6 +66,8 @@
 }
 .table_cell {
 }
+._线段 {
+}
 ._表格 {
 }
 ._表单提示 {
@@ -88,6 +90,9 @@
 .primary_button {
   color:#FFFFFF;
 }
+.link_button {
+  color:#169BD5;
+}
 .heading_2 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -99,6 +104,8 @@
   text-align:left;
 }
 .line {
+}
+.arrow {
 }
 ._图片 {
 }
@@ -122,6 +129,10 @@
   text-align:left;
 }
 .droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
   color:#000000;
   text-align:left;
 }
